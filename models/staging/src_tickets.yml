@@ -1,0 +1,13 @@
+
+version: 2
+sources:
+- name: tickets
+  tags: ['tickets']
+  quoting:
+    database: true
+    schema: false
+    identifier: false
+  project: billets-canadiens
+  schema: scraper
+  tables:
+  - name: seats

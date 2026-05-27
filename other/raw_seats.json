@@ -1,0 +1,70 @@
+{
+  "_links": {
+    "event": [
+      {
+        "href": "/event/310062F686AE1A5B"
+      }
+    ],
+    "self": [
+      {
+        "href": "/host/310062F686AE1A5B/offers/GN6DCMBUGU3TCNZQGYYXYMJWGAYDSZTBMM4DK"
+      }
+    ],
+    "tickettype": [
+      {
+        "href": "/host/310062F686AE1A5B/tickettypes/SSD7I5ROAEA"
+      }
+    ]
+  },
+  "alternateIds": [
+    {
+      "id": "resale-listingVer-00000016009fac85:product-product-00000000043d8a79:product-variant-0000001300bbfd25:310062F686AE1A5B",
+      "provider": "tap"
+    }
+  ],
+  "charges": [
+    {
+      "amount": 27.6,
+      "reason": "service",
+      "type": "fee"
+    }
+  ],
+  "currency": "CAD",
+  "deliveries": [],
+  "event": {
+    "date": "2025-12-15T00:00:00Z",
+    "id": "310062F686AE1A5B",
+    "title": "Montreal Canadiens vs. Edmonton Oilers",
+    "url": "https://www.ticketmaster.ca/montreal-canadiens-vs-edmonton-oilers-montreal-quebec-12-14-2025/event/310062F686AE1A5B",
+    "venue": "Centre Bell"
+  },
+  "faceValue": 120,
+  "inventoryType": "resale",
+  "listPrice": 120,
+  "listingId": "1045717061",
+  "listingVersionId": "resale-listingVer-00000016009fac85",
+  "meta": {
+    "expires": "2025-12-12T04:58:01.147595962Z",
+    "modified": "2025-12-12T04:57:01.147595962Z",
+    "type": "urn:com.ticketmaster.services:type:ismds:EventOffer"
+  },
+  "noChargesPrice": 120,
+  "offerId": "GN6DCMBUGU3TCNZQGYYXYMJWGAYDSZTBMM4DK",
+  "offerType": "standard",
+  "online": true,
+  "protected": false,
+  "rank": 0,
+  "rollup": false,
+  "row": "O",
+  "schema": "urn:com.ticketmaster.services:schema:ismds:ResaleOffer:1.0",
+  "seatFrom": "1",
+  "seatTo": "4",
+  "section": "312",
+  "sellableQuantities": [
+    2,
+    4
+  ],
+  "sellerNotes": "",
+  "ticketTypeId": "SSD7I5ROAEA",
+  "totalPrice": 147.6
+}
